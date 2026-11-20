@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    margin: 50px 0 0 0;
+    color: white;
+}
+
+
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    background-color: #2f4858;
+    width: 600px;
+    height: 400px;
+    margin: 150px auto;
+    border: 5px solid black;
+    border-radius: 10px;
+    
+}
+
+.container-two{
+    margin: 30px 0 0 0;
+    padding: 30px 50px;
+}
+
+button{
+    padding: 5px 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+h2{
+    background-color: black;
+    padding: 30px 15px;
+    font-size: 50px;
+    border-radius: 10px;
+}
+
+.new-el{
+    padding: 20px 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 10px solid white;
+}
