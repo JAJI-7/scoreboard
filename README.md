@@ -1,0 +1,1 @@
+A scoreboard is a large, highly visible display in a sports venue that provides real-time game information, including the current score, remaining time, and critical match statistics for players and spectators.
